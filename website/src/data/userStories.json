@@ -429,17 +429,6 @@
     "size": "sm"
   },
   {
-    "id": "codewithimanshu-higgsfield",
-    "source": "x",
-    "author": "@codewithimanshu",
-    "url": "https://x.com/codewithimanshu/status/2047507277259923696",
-    "date": "2026-04-24",
-    "category": "marketing",
-    "headline": "UGC ad studio on Hermes (4 minutes, zero prompt engineering)",
-    "quote": "Higgsfield Marketing Studio powered by Hermes Agent is doing the replacing this time. Paste product URL → Hermes scrapes the landing page, pulls winning ad hooks from Meta Ads Library + TikTok Creative Center in the exact niche, and writes the brief itself. Total time: ~4 minutes.",
-    "size": "md"
-  },
-  {
     "id": "discord-buray-mcp-server",
     "source": "discord",
     "author": "@buray",
